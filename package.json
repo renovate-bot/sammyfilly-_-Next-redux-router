@@ -59,7 +59,7 @@
     "redux-devtools": "^2.1.0",
     "rimraf": "^2.4.3",
     "sinon": "^1.15.4",
-    "uglify-js": "^2.6.2",
+    "uglify-js": "^3.0.0",
     "webpack": "^1.12.1"
   },
   "dependencies": {
