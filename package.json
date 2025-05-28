@@ -60,7 +60,7 @@
     "rimraf": "^2.4.3",
     "sinon": "^1.15.4",
     "uglify-js": "^2.6.2",
-    "webpack": "^1.12.1"
+    "webpack": "^5.0.0"
   },
   "dependencies": {
     "deep-equal": "^1.0.1"
