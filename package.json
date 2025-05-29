@@ -63,6 +63,6 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
-    "deep-equal": "^1.0.1"
+    "deep-equal": "^2.0.0"
   }
 }
